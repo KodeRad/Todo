@@ -11,6 +11,7 @@ node_modules
 dist
 dist-ssr
 *.local
+../KodeRad/KodeRad.github.io
 
 # Editor directories and files
 .vscode/*
